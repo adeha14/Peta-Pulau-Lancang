@@ -1,0 +1,1 @@
+var json_MASJID_5 = {"type":"FeatureCollection","name":"MASJID_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","MASJID":"MASJID AT TAQWA PULAU LANCANG"},"geometry":{"type":"Point","coordinates":[101.63442044862559,-0.483254497403017]}}]}
